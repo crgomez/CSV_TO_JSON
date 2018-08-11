@@ -1,5 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
+'''
+Maintainer: 'Carlos R Gomez <crgomez167@gmail.com>'
 
 import csv
 import json
