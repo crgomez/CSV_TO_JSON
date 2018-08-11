@@ -1,0 +1,11 @@
+is_negated,is_regex,replace_target,rule_id,target,target_match
+TRUE,FALSE,,973333,ARGS,ibe-data
+TRUE,FALSE,,973344,ARGS,ibe-data
+TRUE,FALSE,,950001,ARGS,OPTOUTMULTI
+TRUE,FALSE,,973344,ARGS,ibe-data
+TRUE,FALSE,,950001,ARGS,OPTOUTMULTI
+TRUE,FALSE,,973333,ARGS,ibe-data
+TRUE,FALSE,,959070,ARGS,remarksToAgent
+TRUE,FALSE,,959072,ARGS,remarksToAgent
+TRUE,FALSE,,981247,ARGS,remarksToAgent
+TRUE,FALSE,,981256,ARGS,remarksToAgent
