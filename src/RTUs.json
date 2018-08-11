@@ -8,7 +8,7 @@ import json
 csvfile = open('plain_rtus.csv', 'r')
 jsonfile = open('RTUs.json', 'w')
 
-fieldnames = ("is_negated",	"is_regex",	"replace_target", "rule_id", "target", "target_match")
+fieldnames = ("is_negated", "is_regex", "replace_target", "rule_id", "target", "target_match")
 
 # Write data to a JSON file...
 reader = csv.DictReader( csvfile, fieldnames)
